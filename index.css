@@ -32,6 +32,7 @@ ul li a{
     /* text-align: center; */
     width: 50%;
     color: chartreuse;
+    font-size: 40px;
 }
 .name h1{
     font-size: 40px;
