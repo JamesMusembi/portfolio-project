@@ -85,6 +85,7 @@ img{
     display: flex;
     margin: 15px;
     color: maroon;
+    font-size: 20px;
 }
 .about{
     text-align: center;
