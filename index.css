@@ -88,6 +88,7 @@ img{
 .container-low{
     display: flex;
     margin: 15px;
+    color: maroon;
 }
 .about{
     text-align: center;
